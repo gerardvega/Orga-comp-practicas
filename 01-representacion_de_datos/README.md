@@ -7,8 +7,8 @@ conversión *a ojo* suele ser muy útil en el momento de leer código asembler y
 que en general los números estarán representados en hexadecimal o en binario.
 
 1. Convertir los siguientes números en representación decimal a binario (16bits)
-    1. 18265
-    1. 7810
+    1. 18265(10) --> 4759(16) --> 0100 0111 0101 1001(2)
+    1. 7810(10) -->  1E82(16) --> 0001 1110 1000 0010(2)
     1. 51007
     1. 66425
     1. 31530
